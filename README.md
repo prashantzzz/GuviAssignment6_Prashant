@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.9.
 
-
+![Website Screenshot](ss.png)
 
 ## Development server
 1. Clone the repository
